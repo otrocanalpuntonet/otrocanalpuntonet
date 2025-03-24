@@ -34,8 +34,12 @@ Siempre estoy abierto a colaborar en proyectos interesantes y contribuir a la co
 
 ### 📡 Conéctate conmigo  
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-beltr%C3%A1n-014b041b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCs4KGJ5Zg6PG0FbCunxaE-g" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </div>
 
 📫 **¿Tienes alguna pregunta o idea para colaborar?** ¡Déjamelo saber en mis redes!  
