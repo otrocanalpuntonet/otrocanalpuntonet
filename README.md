@@ -1,4 +1,4 @@
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J5Yzg4eGFjNTVqMWFpeDNiNDc0ZzU1MmRsbHA0a3E2MXNmdGMyMCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/liRTgRfK9XljrH2EFt/giphy.gif" width="70"/> ¡Bienvenid@s al GitHub de Otro Canal de Punto Net!  
+## 😎 ¡Bienvenid@s al GitHub de Otro Canal de Punto Net! 
 
 🚀 **Explorando el mundo de .NET, la nube y más.**  
 💻 Desarrollo, APIs, arquitectura y automatización.  
