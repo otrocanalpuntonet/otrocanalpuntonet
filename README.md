@@ -4,8 +4,15 @@
 💻 Desarrollo, APIs, arquitectura y automatización.  
 ☁️ Compartiendo conocimientos sobre tecnologías modernas. 
 
-### Skills
+### 👨‍💻 ¿Quién soy?  
 
+Soy un apasionado del desarrollo de software con experiencia en **.NET, la nube y arquitectura de aplicaciones**.  
+Me encanta aprender, compartir conocimientos y construir soluciones eficientes.  
+Aquí encontrarás proyectos, experimentos y recursos sobre **desarrollo backend, DevOps, bases de datos y más**.  
+
+Siempre estoy abierto a colaborar en proyectos interesantes y contribuir a la comunidad. 🚀
+
+### Skills
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
